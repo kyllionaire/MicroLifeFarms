@@ -1,0 +1,24 @@
+{
+  "name": "microlifefarms",
+  "version": "1.0.0",
+  "description": "Microgreens business Austin, TX.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyllionaire/MicroLifeFarms.git"
+  },
+  "author": "Kyle K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyllionaire/MicroLifeFarms/issues"
+  },
+  "homepage": "https://github.com/kyllionaire/MicroLifeFarms#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
